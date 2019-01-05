@@ -1,12 +1,11 @@
 def get_sum(number, remainder):
     total_sum = 0
-    for i in range(len(number)):
-        num = int(number[i])
-        total_sum += (num if num % 2 == remainder else 0)
+    while number != 0:
+        total_sum += number % 10 if (number % 10) % 2 == remainder else 0
+        number //= 10
     return total_sum
 
 
-input_number = input()
-input_number = input_number[1:] if input_number.startswith("-") else input_number
+input_number = abs(int(input()))
 
 print(get_sum(input_number, 0) * get_sum(input_number, 1))
