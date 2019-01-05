@@ -21,9 +21,9 @@ def decreasing_part(n):
     return result
 
 
-def print_triangle():
-    print(increasing_part(number), end="")
-    print(decreasing_part(number), end="")
+def print_triangle(n):
+    print(increasing_part(n), end="")
+    print(decreasing_part(n), end="")
 
 
-print_triangle()
+print_triangle(number)
