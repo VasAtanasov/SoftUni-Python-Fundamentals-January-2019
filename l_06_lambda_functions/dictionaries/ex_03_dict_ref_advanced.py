@@ -7,8 +7,6 @@ while True:
 
     name, value = tokens.split(' -> ')
 
-    debug = ""
-
     if not value.isalpha():
         if name not in dictionary:
             dictionary[name] = []
