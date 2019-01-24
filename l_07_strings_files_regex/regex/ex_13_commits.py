@@ -38,8 +38,8 @@ while True:
     users[username][repo].append(commit)
 
 
-def get_total_count(repo_commits, type):
-    return sum(list(map(lambda a: a[type], repo_commits)))
+def get_total_count(repo_commits, commit_type):
+    return sum(list(map(lambda a: a[commit_type], repo_commits)))
 
 
 for user, repos in sorted(users.items()):
