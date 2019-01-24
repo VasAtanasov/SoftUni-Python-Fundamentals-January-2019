@@ -1,8 +1,7 @@
 import re
 
-GITHUB = "https://github.com/"
-
-PATTERN = r"^https://github\.com/(?P<user>[A-Za-z0-9-]+)/(?P<repo>[A-Za-z_-]+)/commit/(?P<hash>[0-9A-Fa-f]{40}),(?P<message>[^\n]+),(?P<additions>[0-9]+),(?P<deletions>[0-9]+)$"
+PATTERN = r"^https://github\.com/(?P<user>[A-Za-z0-9-]+)/(?P<repo>[A-Za-z_-]+)/" \
+          r"commit/(?P<hash>[0-9A-Fa-f]{40}),(?P<message>[^\n]+),(?P<additions>[0-9]+),(?P<deletions>[0-9]+)$"
 
 users = {}
 
