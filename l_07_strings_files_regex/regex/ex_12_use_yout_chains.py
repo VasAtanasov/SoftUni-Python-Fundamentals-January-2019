@@ -33,7 +33,6 @@ while True:
     end = input_string.index("</p>")
     if 0 <= start < end:
         match = input_string[start + len("<p>"):end]
-        debug = ""
         match = replace_non_alphanumeric_characters(match)
         match = replace_multiple_spaces(match)
         match = switch_characters(list(match))

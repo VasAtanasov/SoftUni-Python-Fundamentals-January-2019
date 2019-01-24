@@ -8,6 +8,7 @@ while True:
     [username, password] = filter(None, in_line.split(" -> "))
 
     users[username] = password
+
 unsuccessful_login_attempts = 0
 
 while True:
