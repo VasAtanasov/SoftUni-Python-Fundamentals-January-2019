@@ -5,7 +5,7 @@ Problems for exercises and homework for the “Python Fundamentals” course @ S
 
 Write a Python program that prints out a simple “Hello World!” to get acquainted with writing Python code.
 
-###Examples
+### Examples
 
 <table>
 <thead>
@@ -22,7 +22,7 @@ Write a Python program that prints out a simple “Hello World!” to get acquai
 </tbody>
 </table>
 
-<p><b>Solution: <a href="./ex_01_hello_world.py.java">ex_01_hello_world.py.java</a></b></p>
+<p><b>Solution: <a href="./ex_01_hello_world.py">ex_01_hello_world.py</a></b></p>
 
 ### 2. Person Info
 
@@ -53,7 +53,7 @@ Note: Leave floating point numbers unformatted.
 </tbody>
 </table>
 
-<p><b>Solution: <a href="./ex_02_personal_info.py.java">ex_02_personal_info.py.java</a></b></p>
+<p><b>Solution: <a href="./ex_02_personal_info.py">ex_02_personal_info.py</a></b></p>
 
 ### Hints
 - To format a string, you can either use the .format() function, or a template string (f'format')
@@ -130,7 +130,7 @@ The salary range is as follows:
 </tbody>
 </table>
 
-<p><b>Solution: <a href="./ex_03_extender_personal_info.py.java">ex_03_extender_personal_info.py.java</a></b></p>
+<p><b>Solution: <a href="./ex_03_extender_personal_info.py">ex_03_extender_personal_info.py</a></b></p>
 
 ### 4. Numbers from 1 to 10
 
@@ -159,7 +159,7 @@ Use the range() function.
 
 - The range() function generates an exclusive range, so using 10 as an end value probably won’t work.
 
-<p><b>Solution: <a href="./ex_04_numbers_from_1_to_10.py.java">ex_04_numbers_from_1_to_10.py.java</a></b></p>
+<p><b>Solution: <a href="./ex_04_numbers_from_1_to_10.py">ex_04_numbers_from_1_to_10.py</a></b></p>
 
 ### 5. Numbers with Step
 
@@ -190,8 +190,8 @@ Input	Output		Input	Output
 </tbody>
 </table>
 
-<p><b>Solution: <a href="./ex_05_numbers_with_step.py.java">ex_05_numbers_with_step.py.java</a></b></p>
+<p><b>Solution: <a href="./ex_05_numbers_with_step.py">ex_05_numbers_with_step.py</a></b></p>
 
-<p><b>Document with tasks description: <a href="../resources/01. Python-Fundamentals-Python-Intro-Exercises.docx">01. Python-Fundamentals-Python-Intro-Exercises.docx</a></b></p>
+<p><b>Document with tasks description: <a href="../resources/l_02_intro/01. Python-Fundamentals-Python-Intro-Exercises.docx">01. Python-Fundamentals-Python-Intro-Exercises.docx</a></b></p>
 
 
