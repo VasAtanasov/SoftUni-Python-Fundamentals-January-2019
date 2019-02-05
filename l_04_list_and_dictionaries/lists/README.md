@@ -366,4 +366,4 @@ Read a list of integers and extract all square numbers from it and print them in
 <p><b>Solution: <a href="./ex_10_square_numbers_01.py">ex_10_square_numbers_01.py</a></b></p>
 <p><b>Solution: <a href="./ex_10_square_numbers_02.py">ex_10_square_numbers_02.py</a></b></p>
 
-<p><b>Document with tasks description: <a href="../../resources/lists/l_04_list_and_dictionaries/lists/02. Lists-and-Dictionaries-Lists-Lab.docx">02. Lists-and-Dictionaries-Lists-Lab.docx</a></b></p>
+<p><b>Document with tasks description: <a href="../../resources/l_04_list_and_dictionaries/lists/02. Lists-and-Dictionaries-Lists-Lab.docx">02. Lists-and-Dictionaries-Lists-Lab.docx</a></b></p>
