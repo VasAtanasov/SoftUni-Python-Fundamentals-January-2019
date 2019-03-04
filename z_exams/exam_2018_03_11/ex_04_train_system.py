@@ -74,7 +74,7 @@ while True:
     if not is_valid_number:
         print(f"card {card_number} is not valid!")
         issue_regular_ticket(full_name, destination)
-    elif card_number in cards_by_number and cards_by_number[card_number] != full_name:
+    elif card_number in cards_by_number:
         print(f"card {card_number} already exists for another passenger!")
         issue_regular_ticket(full_name, destination)
     else:

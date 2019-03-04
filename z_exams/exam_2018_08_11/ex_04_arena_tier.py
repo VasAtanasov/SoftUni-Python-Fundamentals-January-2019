@@ -29,11 +29,10 @@ class Gladiator:
             self.__techniques[technique] = skill
 
     def __str__(self):
-        header = f"{self.name}: {self.total_skill} skill\n"
-        output = []
+        output = [f"{self.name}: {self.total_skill} skill"]
         for technique, skill in sorted(self.__techniques.items(), key=lambda t: (-t[1], t[0])):
             output.append(f"- {technique} <!> {skill}")
-        return header + "\n".join(output)
+        return "\n".join(output)
 
 
 by_name = {}
