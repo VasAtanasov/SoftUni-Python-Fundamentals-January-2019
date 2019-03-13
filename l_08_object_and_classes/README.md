@@ -128,7 +128,7 @@ The input is given as two lines, each holding a rectangle, described by 4 intege
 <tr>
 <td>2 -3 10 6<br>4 -5 6 10</td>
 <td>Not inside</td>
-<td><img src="../resources/l_08_object_and_classes/image3.png"></td>
+<td><img src="../resources/l_08_object_and_classes/image6.png"></td>
 <td>The rectangles intersect, no the first is not inside the second.</td>
 </tr>
 </tbody>
