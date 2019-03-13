@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="index-style.css" />
+
 # SoftUni-Python-Fundamentals
 Python Fundamentals – January 2019
 
