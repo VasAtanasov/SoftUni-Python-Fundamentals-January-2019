@@ -76,43 +76,27 @@ The input holds the number of points n and n lines, each holding a point {X and 
 <td>The closest two points are {3, 4} and {2, 5} at distance 1.4142135623731 ≈ 1.414.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>3<br>12 -30<br>6 18<br>6 18</td>
+<td>0.000<br>(6, 18)<br>(6, 18)</td>
+<td><img src="../resources/l_08_object_and_classes/image3.png"></td>
+<td>Two of the points have the same coordinates {6, 18}, so the distance between them is 0.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>3<br>1 1<br>2 2<br>3 3</td>
+<td>1.414<br>(1, 1)<br>(2, 2)</td>
+<td><img src="../resources/l_08_object_and_classes/image4.png"></td>
+<td>The pairs of points {{1, 1}, {2, 2}} and {{2,2}, {3,3}} stay at the same distance, but the first pair is {{1, 1}, {2, 2}}. The distance between them is 1.4142135623731 ≈ 1.414.</td>
 </tr>
 </tbody>
 </table>
 
+### Hints
 
+- Use the class Point you created in the previous task.
+- Create an array  points that will keep all points.
+- Create a method find_closest_points(points) that will check distance between every two pairs from the array of points and returns the two closest points in a new array.
+- Print the closest distance and the coordinates of the two closest points.
 
-Input	Output	Visualization	Comments
-
-
-
-3
-12 -30
-6 18
-6 18	0.000
-(6, 18)
-(6, 18)	 	Two of the points have the same coordinates {6, 18}, so the distance between them is 0.
-3
-1 1
-2 2
-3 3	1.414
-(1, 1)
-(2, 2)	 	The pairs of points {{1, 1}, {2, 2}} and {{2,2}, {3,3}} stay at the same distance, but the first pair is {{1, 1}, {2, 2}}. The distance between them is 1.4142135623731 ≈ 1.414.
-Hints
-	Use the class Point you created in the previous task.
-	Create an array  points that will keep all points.
-	Create a method find_closest_points(points) that will check distance between every two pairs from the array of points and returns the two closest points in a new array.
-	Print the closest distance and the coordinates of the two closest points.
 Rectangle Position
 Write a program to read two rectangles {left, top, width, height} and print whether the first is inside the second.
 The input is given as two lines, each holding a rectangle, described by 4 integers: left, top, width and height.
