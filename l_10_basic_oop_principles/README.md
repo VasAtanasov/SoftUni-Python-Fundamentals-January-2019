@@ -18,7 +18,7 @@ Your class’s names MUST be the same as the names shown above!!!
 
 Define a field for each property the class should have (e.g. Name, Age) 
 
-####Step 3 - Define the Properties of a Person
+#### Step 3 - Define the Properties of a Person
 
 Define the Name and Age properties of a Person. 
 
