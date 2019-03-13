@@ -67,11 +67,11 @@ Note: Format all prices to the 2nd decimal point.
 </tbody>
 </table>
 
-<p><b>Solution: <a href="./ex_01_cloud_storage.py"></a></b></p>
+<p><b>Solution: <a href="./ex_01_cloud_storage.py">ex_01_cloud_storage.py</a></b></p>
 
-<p><b>Author's Solution: <a href="../resources/z_exams/exam_2018_03_11/01. Cloud Storage_Author's Solution.py"></a></b></p>
+<p><b>Author's Solution: <a href="../../resources/z_exams/exam_2018_03_11/01. Cloud Storage_Author's Solution.py">01. Cloud Storage_Author's Solution.py</a></b></p>
 
-<p><b>Document with tasks description: <a href="../resources/z_exams/exam_2018_03_11/01. Cloud Storage_Problem Description.docx">01. Cloud Storage_Problem Description.docx</a></b></p>
+<p><b>Document with tasks description: <a href="../../resources/z_exams/exam_2018_03_11/01. Cloud Storage_Problem Description.docx">01. Cloud Storage_Problem Description.docx</a></b></p>
 
 
 
