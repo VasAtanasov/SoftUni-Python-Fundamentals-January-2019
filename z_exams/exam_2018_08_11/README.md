@@ -1,6 +1,6 @@
 # Python Fundamentals Exam - 11 August 2018
 
-Problem 1 – Gladiator Expenses
+## Problem 1 – Gladiator Expenses
 As a gladiator, Pesho has to repair his broken equipment when he loses a fight. His equipment consists of helmet, sword, shield and armor. You will receive the Pesho`s lost fights count.
 
 Every second lost game, his helmet is broken.
