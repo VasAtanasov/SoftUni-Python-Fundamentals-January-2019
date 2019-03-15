@@ -219,7 +219,7 @@ The printing format for each technology looks like this:
     --{Course2} -> {participant_count}
     --{Course3} -> {participant_count}
     Technology2 ({total_participants} participants):
-    --{Course1} -> {participant_count}
+    --{Course1} -> {participant_count} 
     --{Course2} -> {participant_count}
 
 ### Examples
