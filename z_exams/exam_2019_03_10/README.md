@@ -322,7 +322,7 @@ Third is Hydralisk. We check if there are five parameters and the last one is st
 </tbody>
 </table>
 
-<p><b>Solution: <a href="./ex_04_listmons_monsters.py"></a></b></p>
+<p><b>Solution: <a href="./ex_04_listmons_monsters.py">ex_04_listmons_monsters.py</a></b></p>
 
 <p><b>Author's Solution: <a href="../../resources/z_exams/exam_2019_03_10/04.Listmon's Monsters (solution_classes_advanced).py">04.Listmon's Monsters (solution_classes_advanced).py</a></b></p>
 
